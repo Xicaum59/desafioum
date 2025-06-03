@@ -1,8 +1,6 @@
 package com.Xicaum59.Entities;
 
-import com.Xicaum59.services.OrderService;
-
-public class Order extends OrderService{
+public class Order {
 	
 	private Integer code;
 	private double basicValue;
